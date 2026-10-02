@@ -1,0 +1,6 @@
+{
+  "name": "¡Felices 24, Mi Amor! - 5 de Octubre",
+  "description": "Una sorpresa especial de cumpleaños con nuestros recuerdos, palabras de amor y la primera pista de tu gran búsqueda del tesoro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
